@@ -1,0 +1,52 @@
+/* CSS styles */
+body {
+    margin:0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+  }
+div{
+    margin: auto;
+}
+  
+  h1 {
+    color: red;
+    font-size: 24px;
+    text-align: center;
+  }
+  
+  .container {
+    background-color: #F0F0F0;
+    width: 600px;
+    height: 400px;
+  }
+  li{
+    list-style: none;
+  }
+  
+  ul li.first-item {
+    color: blue;
+  }
+  
+  img {
+    width: 300px;
+    height: 200px;
+  }
+  
+  table {
+    border-collapse: collapse;
+  }
+  
+  table td,
+  table th {
+    border: 1px solid #CCCCCC;
+    padding: 8px;
+  }
+  
+  table tbody tr:hover {
+    background-color: #EAEAEA;
+  }
+  
+  table thead th {
+    background-color: #CCCCCC;
+  }
+  
